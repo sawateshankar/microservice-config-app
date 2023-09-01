@@ -1,6 +1,3 @@
-spring:
-  application:
-  name:config-defualt
 eureka:
   client:
     fetch-registry: true
